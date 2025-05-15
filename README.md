@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-home-work02
+# goit-markup-hw-01
+dz-1
