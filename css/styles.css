@@ -43,10 +43,7 @@ a {
   color: #2e2f42;
 }
 
-.nav-link:hover {
-  color: #404bbf;
-}
-
+.nav-link:hover,
 .nav-link:focus {
   color: #404bbf;
 }
@@ -69,32 +66,30 @@ a {
 
 /* start section lead-in */
 .lead-in {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 
 .title-h1 {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.7;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
 }
 
 .btn-service {
+  font-family: "Roboto", sans-serif;
   cursor: pointer;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  background: #4d5ae5;
+  background-color: #4D5AE5;
 }
 
-.btn-service:hover {
-  background-color: #404bbf;
-}
-
+.btn-service:hover,
 .btn-service:focus {
   background-color: #404bbf;
 }
@@ -124,7 +119,7 @@ a {
 
 /* start section teamwork */
 .teamwork {
-  background-color: #f4f4fd;
+  background-color: #F4F4FD;
 }
 
 .section-title {
